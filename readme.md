@@ -1,3 +1,3 @@
-### Infinite Reality Engine Project
+### iR Engine Project
 
-This is an Infinite Reality Engine project.
+This is an iR Engine project.
